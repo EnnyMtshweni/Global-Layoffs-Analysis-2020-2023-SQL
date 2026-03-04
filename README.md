@@ -23,7 +23,7 @@ Isights and recommendation are provided on the following key area:
 * Layoffs peaked in 2022 following post-pandemic restructuring. The United States accounted for the majority of job losses, while Consumer and Retail sectors were disproportionately affected. Large multinational technology firms contributed significantly to total layoffs.
 * The most severe workforce reductions occurred during the post-pandemic correction phase rather than the initial 2020 disruption.
 
-## 2.Deep Dive Insights
+## 2. Deep Dive Insights
 
 ### Yearly Trends – Global Layoffs (2020–2023)
 
@@ -106,7 +106,7 @@ corporations, particularly in the technology and consumer sectors, which underwe
 * The data indicates that large technology and multinational firms contributed significantly to global layoff volumes. This trend aligns with broader industry-wide restructuring, cost optimisation initiatives, and post-pandemic demand re calibration within the technology sector.
 
 
-## 3.Strategic Recommendations
+## 3. Strategic Recommendations
 
 * Build multi-year financial resilience buffers.
 * Diversify revenue beyond discretionary consumer spending.
