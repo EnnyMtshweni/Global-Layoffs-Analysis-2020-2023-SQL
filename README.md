@@ -7,6 +7,12 @@ The dataset was cleaned and aggregated using SQL, analysed through structured qu
 
 * In the past years, during covid 19 pandemic global companies have experience significant workforce reduction  due to economic uncertainty post covid restructuring and market corrections.
 * The objective of this analysis is to identify affected industries, countries, and companies, examine yearly layoff trends, uncover structural patterns, and provide strategic recommendations.
+
+* The SQL queries utilisesd to clean, organise and prepare data for dashboard can be found [Data Cleaning Project.sql](https://github.com/user-attachments/files/25743648/Data.Cleaning.Project.sql)
+* The SQL queries utilised to perform Exploratory Data Analysis (EDA) [Exploratory data analysis project.sql](https://github.com/user-attachments/files/25743729/Exploratory.data.analysis.project.sql)
+* The Power bi dashboard[Dashboard pdf .pdf](https://github.com/user-attachments/files/25743792/Dashboard.pdf.pdf)
+* The layoffs raw copy and cleaned copy of dataset [layoffs raw data copy.csv](https://github.com/user-attachments/files/25743805/layoffs.raw.data.copy.csv)  ,  [Cleaned layoffs Covid data copy.csv](https://github.com/user-attachments/files/25743819/Cleaned.layoffs.Covid.data.copy.csv)
+
   
 ## Insights and recommendation 
 Isights and recommendation are provided on the following key area:
