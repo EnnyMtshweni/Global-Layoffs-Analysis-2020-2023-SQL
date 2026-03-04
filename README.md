@@ -1,6 +1,6 @@
 # Global Layoffs Analysis (2020-2023).
 
-Background and overview
+### Background and overview
 
 This project presents an exploratory data analysis (EDA) of global layoffs recorded between 2020 and 2023.
 The dataset was cleaned and aggregated using SQL, analysed through structured queries, transformed in Power BI, enhanced with DAX measures, and visualised through an interactive dashboard.
